@@ -16,18 +16,6 @@ Welcome to the Bootstrap Projects repository! This repository contains various p
 
 **Live Demo:** [Cryptobase Live Link](https://ranaavh.github.io/Bootsrap-Projects/cryptobase/index.html)
 
-**Latest Commit:** Update README.md [1d185d7] - 2 weeks ago
 
-### 2. Hospital Webpage
-
-**Description:** A professional and responsive hospital website template. This project includes sections like services, departments, doctors, and contact information.
-
-**Features:**
-- Clean and professional design using Bootstrap
-- Information about hospital services and departments
-- Profiles of doctors and medical staff
-- Contact form for inquiries
-
-**Live Demo:** [Hospital Webpage Live Link](https://ranaavh.github.io/Bootsrap-Projects/hospital/index.html)
 
 
