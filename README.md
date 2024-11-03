@@ -14,7 +14,7 @@ Welcome to the Bootstrap Projects repository! This repository contains various p
 - Latest news updates
 - Detailed information pages for each cryptocurrency
 
-**Live Demo:** [Cryptobase Live Link]([https://athifal.github.io/Cryptoclone/#])
+**Live Demo:** [Cryptobase Live Link]([(https://athifal.github.io/Cryptoclone/#)])
 
 
 
